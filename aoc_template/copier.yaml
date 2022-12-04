@@ -1,0 +1,4 @@
+# questions
+aoc_day:
+  type: str
+  help: What day of the AoC?
